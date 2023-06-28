@@ -3,6 +3,9 @@
 
 This is a course project of Columbia University 6893 course in 2022 fall semester. This project is done by: Linyang Han, Ke Li and Chu Qin.
 
+<br>
+
+## Instruction
 All our code for model training are stored inside `./model-code/`.
 
 Run `./install.sh` to install all the dependent software like node and python.
