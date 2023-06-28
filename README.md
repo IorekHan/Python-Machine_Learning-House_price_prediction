@@ -12,7 +12,8 @@ This is a course project of Columbia University 6893 course in 2022 fall semeste
 <br>
 <br>
 ** The front-end is based on React. For acceptable waiting time for visualization, only NY and NJ data is applied to the front-end map.<br>
-You can input needed info for a price prediction or see house price distribution data on the web front-end.
+You can input needed info for a price prediction or see house price distribution data on the web front-end.<br>
+The displayed prediction is based on LF model.
 <br>
 
 ## Run App
