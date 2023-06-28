@@ -5,7 +5,16 @@ This is a course project of Columbia University 6893 course in 2022 fall semeste
 
 <br>
 
-## Instruction
+## Intro
+This project use different Machine Learning models to apply prediction on house price in the US. 
+<br>
+Used datasets are saved in /datasets.
+The data set is already cleaned.
+<br>
+The front-end is based on React.
+For acceptable waiting time for visualization, only NY and NJ data is applied to the front-end map.
+
+## Run App
 All our code for model training are stored inside `./model-code/`.
 
 Run `./install.sh` to install all the dependent software like node and python.
