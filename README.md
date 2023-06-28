@@ -1,4 +1,7 @@
-# 6893-project
+# House Price Prediction
+## 6893-project
+
+This is a course project of Columbia University 6893 course in 2022 fall semester. This project is done by: Linyang Han, Ke Li and Chu Qin.
 
 All our code for model training are stored inside `./model-code/`.
 
