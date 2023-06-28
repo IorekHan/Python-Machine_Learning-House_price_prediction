@@ -2,17 +2,17 @@
 ### 6893-project
 
 This is a course project of Columbia University 6893 course in 2022 fall semester. This project is done by: Linyang Han, Ke Li and Chu Qin.
-
 <br>
 
 ## Intro
-This project use different Machine Learning models to apply prediction on house price in the US. 
+** This project use different Machine Learning models to apply prediction on house price in the US. 
 <br>
-Used datasets are saved in /datasets.
-The data set is already cleaned.
 <br>
-The front-end is based on React.
-For acceptable waiting time for visualization, only NY and NJ data is applied to the front-end map.
+** Used datasets are saved in /datasets. The data set is already cleaned.
+<br>
+<br>
+** The front-end is based on React. For acceptable waiting time for visualization, only NY and NJ data is applied to the front-end map.
+<br>
 
 ## Run App
 All our code for model training are stored inside `./model-code/`.
